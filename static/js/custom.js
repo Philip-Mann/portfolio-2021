@@ -223,9 +223,8 @@
                 speed: 200,
                 loop:true,
                 strings: [
-                  'Front End',
-                  'Back End',
-                  'Fullstack Web Developer'
+                  'Fullstack Web Developer',
+                  'Long Haul Truck Driver',
                 ],
                 breakLines: false
             }); 
