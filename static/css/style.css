@@ -816,7 +816,7 @@ mark {
   font-size: 16px;
   line-height: normal;
 }
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
   .portfolio-filter-01 .filter li {
     margin: 0 8px;
     font-size: 15px;
@@ -845,7 +845,7 @@ mark {
 }
 .portfolio-filter-01 .filter li.active:after {
   width: 100%;
-}
+} */
 
 .portfolio-box-01 {
   background: #fff;
@@ -854,7 +854,7 @@ mark {
   margin: 15px 0;
   position: relative;
 }
-.portfolio-box-01:after {
+/* .portfolio-box-01:after {
   content: "";
   position: absolute;
   bottom: 0;
@@ -917,7 +917,7 @@ mark {
   bottom: 8px;
   opacity: 1;
   z-index: 1;
-}
+} */
 
 /* Section
 ---------------------*/
